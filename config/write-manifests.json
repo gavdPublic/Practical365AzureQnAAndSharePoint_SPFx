@@ -1,0 +1,4 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/write-manifests.schema.json",
+  "cdnBasePath": "https://m365x855661.sharepoint.com/sites/TestModernTeamSite/APFx_Code"
+}

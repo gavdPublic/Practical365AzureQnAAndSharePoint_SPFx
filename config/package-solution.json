@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "prac-365-azure-qn-a-sp-fx-client-side-solution",
+    "id": "29b54533-500c-4b46-b83e-5e5c48b621b8",
+    "version": "1.1.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/prac-365-azure-qn-a-sp-fx.sppkg"
+  }
+}

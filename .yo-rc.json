@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "prac-365-azure-qn-a-sp-fx",
+    "libraryId": "29b54533-500c-4b46-b83e-5e5c48b621b8",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
